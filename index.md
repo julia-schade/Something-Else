@@ -26,4 +26,20 @@ WHERE {
     ?location arco-location:hasLocationType arco-location:StorageLocation .
   }
 limit 100
+
 ```
+Here is the [Team](Team.md)
+
+*Index*
+1. [About me](#about-me)
+2. [Bibliography](#bibliography)
+3. [RLAST](#really-long-and-stupid-title)
+
+## About me
+It's me
+
+## Bibliography
+That's da book
+
+## Really long and stupid title
+And short content
