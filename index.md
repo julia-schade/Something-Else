@@ -4,7 +4,7 @@
 <tbody>
 <tr>
 <td>
-<p>&nbsp;</p> Pic
+<p>&nbsp;</p> <img src="f3bb459e1ecb5f269032dc644f1681b4.png"> 
 </td>
 <td>
 <p>&nbsp;</p>
